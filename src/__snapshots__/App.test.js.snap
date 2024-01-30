@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App Component > renders the App 1`] = `"Parent: bool: true text: MikeChild:bool: truetext: Mikechange bool"`;
+
+exports[`App Component > updates boolean variable with button 1`] = `"Parent: bool: true text: XFACTORChild:bool: truetext: XFACTORchange bool"`;
